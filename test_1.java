@@ -7,6 +7,7 @@ public class test_1 {
 		System.out.println("git text");
 		//dgsxgfxghxfh
 		//123456
+		//oihoihoi
 
 	}
 
